@@ -10,4 +10,8 @@
     display: flex;
     flex-direction: row-reverse;
 }
+#new{
+    display: flex;
+    flex-direction: row;
+}
 
